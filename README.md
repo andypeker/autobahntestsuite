@@ -2,7 +2,7 @@ autobahntestsuite
 =================
 
 
-This project isnot from me, from there sit as url :https://pypi.python.org/pypi/autobahntestsuite#downloads
+This project isnot from me, from there sit as url :https://pypi.python.org/pypi/autobahntestsuite
 
 This project implement testsuit for WebSocket Protocol
 
